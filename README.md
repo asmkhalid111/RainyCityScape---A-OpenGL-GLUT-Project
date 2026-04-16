@@ -142,11 +142,10 @@ User Input → State Update → Physics/Animation → Algorithms → Rendering
 ---
 
 
+
 ## 🎬 Demo
 
-<p align="center">
-  <img src="assets/images/Rainy-CityScape-GIF.gif" width="700"/>
-</p>
+![Demo](assets/images/Rainy-CityScape-GIF.gif)
 > A dark stormy skyline with rain, lightning flashes, moving clouds, and glowing windows.
 
 ---
@@ -165,9 +164,3 @@ User Input → State Update → Physics/Animation → Algorithms → Rendering
 **Ashrafuzzaman Khalid**
 
 ---
-
-If you want, I can also:
-
-* Add **GIF preview generation (record your app)**
-* Convert this into a **portfolio-ready project page**
-* Or make a **report (PDF for university submission)**
